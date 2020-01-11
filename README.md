@@ -13,4 +13,4 @@
 
 I have also included the stl file. You have to remove two buttons and clip it after you assemble it. I have replaced the AC button which was already broken and a placeholder slot next to it.
 
-![Main image](/3D printing/body.png)
+![STL file](/3D_printing/body.png)
